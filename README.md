@@ -5,9 +5,19 @@
 
 The purpose of this project is to create customer personas by identifying groups of customers with similar demographic and purchasing behaviour. We aim to leverage clustering and exploratory data analysis to better understand customer segments, uncover patterns in behaviour, and generate insights that can inform marketing decisions.
 
+In modern marketing and customer relationship management, understanding purchasing behaviour is critical for driving business success. Companies across sectors — including retail, e-commerce, financial services, and telecommunications — use customer segmentation to tailor campaigns, personalize offers, and optimize product development.
+
+This project mirrors real-world data science applications in:
+    - Customer segmentation for targeted marketing strategies
+    - Churn prediction and retention planning
+    - Product recommendation systems
+    - Personalized communications and campaign optimization
+
+By identifying actionable customer personas, businesses can better allocate marketing budgets, increase customer lifetime value (CLV), and improve overall customer experience. Our approach aligns with industry practices such as RFM (Recency, Frequency, Monetary) analysis and clustering models frequently used in CRM and BI platforms.
+
 ## Members
 
-- Adriana
+- Adriana Meraz
 - Carolina Crespo
 - Mubashara Mulbari
 - Ryan O'Grady
@@ -19,7 +29,7 @@ The purpose of this project is to create customer personas by identifying groups
 
 - Can we use existing customer data to identify distinct customer clusters based on their purchasing behavior and demographic characteristics?
 
-## Source: Kaggle (link)
+## Source: Kaggle ([link](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis?resource=download))
 
 ## Methods Used
 
