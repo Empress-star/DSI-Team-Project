@@ -54,6 +54,10 @@ We are working with a structured dataset of customer transactions and demographi
 - Explore how demographics correlate with spending habits
 - Present actionable personas and recommendations based on these insights
 
+## Reproducibility
+
+The reproducible part of this project is the entire Jupyter Notebook. 
+
 ## Getting Started
 
 Clone this repo: https://github.com/Empress-star/DSI-Team-Project.git
