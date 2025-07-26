@@ -38,9 +38,9 @@ We are working with a structured dataset of customer transactions and demographi
 - Explore how demographics correlate with spending habits
 - Present actionable personas and recommendations based on these insights
 
-The Stakeholders for this project are:
-    - Marketing teams - use the personas to create tailored communications and strategies
-    - Business strategists - use the analysis to understand the different ways customers shop and how they might improve sales and engagement
+The Stakeholders for this project are:  
+    - Marketing teams - use the personas to create tailored communications and strategies  
+    - Business strategists - use the analysis to understand the different ways customers shop and how they might improve sales and engagement  
 
 ## Dataset Overview
 
