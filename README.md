@@ -1,7 +1,7 @@
 # DSI Cohort 6 Team Project - Customer Purchasing Behaviours
 **Project Status:** Active
 
-## Project Intro / Objective
+## 📌 Project Intro / Objective
 
 The purpose of this project is to create customer personas by identifying groups of customers with similar demographic and purchasing behaviour. We aim to leverage clustering and exploratory data analysis to better understand customer segments, uncover patterns in behaviour, and generate insights that can inform marketing decisions.
 
@@ -15,7 +15,7 @@ This project mirrors real-world data science applications in:
 
 By identifying actionable customer personas, businesses can better allocate marketing budgets, increase customer lifetime value (CLV), and improve overall customer experience. Our approach aligns with industry practices such as RFM (Recency, Frequency, Monetary) analysis and clustering models frequently used in CRM and BI platforms.
 
-## Members
+## 🤝 Members
 
 - Adriana Meraz
 - Carolina Crespo
@@ -25,7 +25,7 @@ By identifying actionable customer personas, businesses can better allocate mark
 - Surbhi Maheshwari
 - Ts'ui Toy
 
-## Project Question
+## ❓Project Question
 
 - Can we use existing customer data to identify distinct customer clusters based on their purchasing behavior and demographic characteristics?
 
@@ -39,7 +39,7 @@ We are working with a structured dataset of customer transactions and demographi
 - Explore how demographics correlate with spending habits
 - Present actionable personas and recommendations based on these insights
 
-## Dataset Overview
+## 📂 Dataset Overview
 
 - Source: Kaggle ([link](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis?resource=download))
 - Records: ~2,200 customers
@@ -80,19 +80,19 @@ We are working with a structured dataset of customer transactions and demographi
     - We identified 3 distinct customer personas based on clustering analysis:
         - 1. Budget-Conscious Families (Cluster 0)
 
-            - Low income (~$35K) and low spending (~$97)
+            - Low income (~ $35K) and low spending (~ $97)
             - Average age (~53), with ~1.2 children
             - Low purchase volume across all categories
             - Prefer in-store shopping, with low campaign engagement
         - 2. Mid-Income Traditional Shoppers (Cluster 1)
 
-            - Moderate income (~$57K) and mid-level spending (~$730)
+            - Moderate income (~ $57K) and mid-level spending (~ $730)
             - Older demographic (~59), mostly married
             - High purchases in wine and meat, moderate catalog/web use
             - Balanced cart size and channel usage
         - 3. Affluent Gourmet Enthusiasts (Cluster 2)
 
-            - High income (~$76K) and highest spending (~$1,414)
+            - High income (~ $76K) and highest spending (~ $1,414)
             - Slightly younger (~56), but few or no children
             - Very high online engagement and luxury product interest (wine, meat, gold)
             - Highest cart size and purchase frequency
@@ -105,7 +105,7 @@ We are working with a structured dataset of customer transactions and demographi
 - Kagglehub
 - Pandas, NumPy, scikit-learn, matplotlib
 
-## Business Recommendations
+## 📈 Business Recommendations
 
 Based on the insights from each persona, we recommend:
 
@@ -119,7 +119,7 @@ Based on the insights from each persona, we recommend:
 
 The reproducible part of this project is the entire Jupyter Notebook. 
 
-## How to Run the Project
+## 🧪 How to Run the Project
 
 ### Requirements
 - Python 3.9+
@@ -149,8 +149,24 @@ DSI-Team-Project/
 │
 ├── README.md
 
+## 📁 Folder Structure
 
-## References
+DSI-Team-Project/
+│
+├── dataset/
+│   └── marketing_campaign.csv
+│
+├── Visualizations/
+│   └── visuals.png
+│
+├── DS5_Team_Project.ipynb
+│
+├── README.md
+│
+└── .gitignore
+
+
+## 📚 References
 
 - Kaggle Dataset: Customer Personality Analysis
 - "Data Science for Business" by Provost & Fawcett
