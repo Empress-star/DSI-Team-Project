@@ -168,7 +168,7 @@ DSI-Team-Project/
 - Carolina Crespo:  
 - Adriana Meraz:  
 - Scott Lewis:  
-- Surbhi Maheshwari:  
+- Surbhi Maheshwari:  https://www.loom.com/share/3ceb9faf83fd48738a5cc21482b5e97a?sid=479c4dfe-8065-4cff-bea3-a9b61843beca
 - Mubashara Malbari:
 
 ## References
