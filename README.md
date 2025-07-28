@@ -166,7 +166,7 @@ DSI-Team-Project/
 - Ryan O'Grady: https://youtu.be/FM4YiiQNds4  
 - Ts'ui Toy:  https://youtu.be/ni6rqU1TKsM  
 - Carolina Crespo: https://drive.google.com/file/d/1XkQve5wglYBUFMfXJI5TMX7jyrzfTniI/view?usp=sharing
-- Adriana Meraz:  
+- Adriana Meraz: https://drive.google.com/file/d/1sfELmZA0Zrr1noB8rpBINzuznqfwlVA0/view
 - Scott Lewis:  
 - Surbhi Maheshwari:  https://www.loom.com/share/3ceb9faf83fd48738a5cc21482b5e97a?sid=479c4dfe-8065-4cff-bea3-a9b61843beca
 - Mubashara Malbari: https://youtu.be/3VAHnrs8B48?si=8o7m1H2TF-HQDq3J
