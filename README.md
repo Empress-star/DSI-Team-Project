@@ -169,7 +169,7 @@ DSI-Team-Project/
 - Adriana Meraz:  
 - Scott Lewis:  
 - Surbhi Maheshwari:  https://www.loom.com/share/3ceb9faf83fd48738a5cc21482b5e97a?sid=479c4dfe-8065-4cff-bea3-a9b61843beca
-- Mubashara Malbari:
+- Mubashara Malbari: https://youtu.be/3VAHnrs8B48?si=8o7m1H2TF-HQDq3J
 
 ## References
 
